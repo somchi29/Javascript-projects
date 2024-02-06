@@ -18,8 +18,6 @@ body{
 }
 .home{
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
     gap: 50px; 
 }
 .log{
@@ -147,7 +145,7 @@ background: var(--neutral-silver, #F5F7FA);
     font-style: normal;
     font-weight: 600;
     line-height: 44px; 
-}
+} 
 
 .words{
     color: var(--neutral-grey, #717171);
